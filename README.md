@@ -2,4 +2,4 @@
 Automating COBOL testing with cobolcheck and GitHub Actions.
 
 # Acknowledgments
-I copied my .github/workflows/main.yml from the repository cobol-check-automation2 of Github user DanilloAlmeida. 
+The main.yml file from .github/workflows/ was copied from the repository cobol-check-automation2 of Github user DanilloAlmeida. 
