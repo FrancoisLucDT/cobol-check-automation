@@ -11,7 +11,7 @@ export PATH=$PATH:/usr/lpp/zowe/cli/node/bin
 java -version
 
 # Set ZOWE_USERNAME
-ZOWE_USERNAME="${{ secrets.ZOWE_USERNAME }}"  # Replace with your actual username
+ZOWE_USERNAME="$ZOWE_USERNAME"  # Replace with your actual username
 
 # Change to the cobolcheck directory
 cd cobolcheck
